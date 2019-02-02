@@ -1,5 +1,5 @@
 
-    var width = 400;
+    var width = 300;
     var height = 400;
     var radius = 100;
 function drawCanvas(){

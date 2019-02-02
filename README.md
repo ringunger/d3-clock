@@ -1,2 +1,3 @@
-#D3 Clock
-This is part of my practice on using HTML5 canvas.
+## Simple HTML5 canvas Clock
+This is one of my practical projects working with canvas.
+Live demo [here](http://www.ringlesoft.com/portfolio/d3-clock)
