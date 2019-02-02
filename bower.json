@@ -1,0 +1,16 @@
+{
+  "name": "d3-clock",
+  "authors": [
+    "Ringle <=>"
+  ],
+  "description": "A live clock using D3 js",
+  "main": "index.html",
+  "keywords": [
+    "d3",
+    "javascript",
+    "canvas",
+    "html5"
+  ],
+  "license": "MIT",
+  "homepage": "www.ringlesoft.com"
+}

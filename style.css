@@ -1,0 +1,61 @@
+/* RingleSoft */
+
+* {
+    box-sizing: border-box;
+}
+body {
+    margin:0px;
+    padding: 0px;
+    height: 100%;
+    font-family: 'Dosis', sans-serif;
+}
+
+#svgcontainer {
+    width: 400px;
+    height: 400px;
+    margin:auto;
+    position:absolute;
+    top:0px;
+    bottom:0px;
+    right:0px;
+    left:0px;
+}
+
+.clock-text {
+    font-family:sans-serif;
+    color: #bbb;
+}
+
+.tick {
+    stroke: #aac;
+    stroke-linecap: round;
+    stroke-width: 2;
+}
+
+.tick.hour {
+        stroke-width: 2;
+}
+
+.tick.minute {
+    stroke-width: 1;
+}
+
+
+.arrow {
+    stroke-linecap: round;
+}
+
+.arrow.hour {
+    stroke: #336;
+    stroke-width: 6;
+}
+
+.arrow.minute {
+    stroke: #336;
+    stroke-width: 4;
+}
+
+.arrow.second {
+    stroke: #336;
+    stroke-width: 2;
+}
